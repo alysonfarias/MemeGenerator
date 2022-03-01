@@ -12,5 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap
 - React.js
 ## 💻 Projeto
+![alt text]("")
+
 ## 📺 Acesso
 Você pode testar [nesse link](https://meme-generator-wine.vercel.app/)
