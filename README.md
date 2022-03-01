@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap
 - React.js
 ## 💻 Projeto
-![alt text]("")
+![alt text](https://github.com/alysonfarias/MemeGenerator/blob/master/memegenmobile.png)
 
 ## 📺 Acesso
 Você pode testar [nesse link](https://meme-generator-wine.vercel.app/)
